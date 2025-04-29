@@ -11,7 +11,7 @@ switch (APP_ENV) {
         break;
     case 'prod':
         console.log('connecting to prod')
-        APP_HOST = "https://chat-app-s8mp.onrender.com";
+        APP_HOST = "https://chat-app-w12c.onrender.com";
         break;
     default:
         console.log('connecting to default api (local)')

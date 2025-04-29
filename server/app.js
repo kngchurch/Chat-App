@@ -14,7 +14,7 @@ const app = express();
 // Middlewares
 app.use(
   cors({
-    origin: "https://chat-app-red-alpha.vercel.app", 
+    origin: "https://chat-app-murex-gamma-33.vercel.app", 
     credentials: true, 
   })
 );
